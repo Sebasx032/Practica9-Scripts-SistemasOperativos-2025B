@@ -1,6 +1,6 @@
-# Práctica 9 - Scripts en Bash | Sistemas Operativos 2025B
+# Práctica 8 - Scripts en Bash | Sistemas Operativos 2025B
 
-Bienvenido al repositorio **Practica9-Scripts-SistemasOperativos-2025B**, donde se desarrollan ejercicios prácticos relacionados con la creación y ejecución de **scripts en Bash** en sistemas operativos tipo UNIX/Linux.
+Bienvenido al repositorio **Practica8-Scripts-SistemasOperativos-2025B**, donde se desarrollan ejercicios prácticos relacionados con la creación y ejecución de **scripts en Bash** en sistemas operativos tipo UNIX/Linux.
 
 Esta práctica permite reforzar el uso de estructuras básicas de programación en Bash como variables, condicionales, ciclos, funciones y manejo de entradas del usuario, aplicadas a problemas prácticos.
 
